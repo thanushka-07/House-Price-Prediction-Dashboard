@@ -26,7 +26,7 @@ The dashboard helps analyze:
 - Category-wise comparisons
 - Trends and patterns in house prices
 ## Dashboard Preview
-![House Price Prediction Dashboard](Screenshot%202026-09-06%20154151.png)
+![House Price Prediction Dashboard](Dashboard.png)
 ## Project Objective
 The main objective of this project is to transform house price data into an interactive and informative Power BI dashboard that supports data analysis and better understanding of house price patterns.
 ## Key Skills Demonstrated
