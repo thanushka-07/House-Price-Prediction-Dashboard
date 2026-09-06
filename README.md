@@ -27,6 +27,12 @@ The dashboard helps analyze:
 - Trends and patterns in house prices
 ## Dashboard Preview
 ![House Price Prediction Dashboard](Dashboard.png)
+## key Insights
+- Analyzed house prices based on the number of bedrooms.
+- Compared average house prices across different years.
+- Studied the relationship between living area and house prices.
+- Compared average prices based on prices condition.
+- Analyzed the distribution of house prices  across different floors.
 ## Project Objective
 The main objective of this project is to transform house price data into an interactive and informative Power BI dashboard that supports data analysis and better understanding of house price patterns.
 ## Key Skills Demonstrated
